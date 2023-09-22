@@ -3,14 +3,13 @@
 Welcome to the Employee Dataset README! This README provides a comprehensive overview of the dataset, 
 along with visual representations and descriptions to help you better understand and explore the data.
 ## Table of Contents 📝
-- [Dataset Overview](https://github.com/DataAsh21/SQL-Projects/new/Employees#dataset-overview-)
-- [Table 1: employees_details](https://github.com/DataAsh21/SQL-Projects/new/Employees#table-1-employees_details-)
-- [Table 2: employees_salary](https://github.com/DataAsh21/SQL-Projects/new/Employees#table-2-employees_salary-)
-- [Table 3: employeeinfo](https://github.com/DataAsh21/SQL-Projects/new/Employees#table-3-employeeinfo-)
-- [Table 4: employee_position](https://github.com/DataAsh21/SQL-Projects/new/Employees#table-4-employee_position-)
-- [Exploratory Data Analysis](https://github.com/DataAsh21/SQL-Projects/new/Employees#exploratory-data-analysis-)
-- [Conclusion](https://github.com/DataAsh21/SQL-Projects/new/Employees#conclusion-)
-
+- Dataset Overview
+- Table 1: employees_details
+- Table 2: employees_salary
+- Table 3: employeeinfo
+- Table 4: employee_position
+- Exploratory Data Analysis
+- Conclusion
 ## Dataset Overview 📋
 The Employee Dataset comprises four tables that provide detailed information about employees, including their salaries, positions, personal details, and more. Below is a brief description of each table:
 
